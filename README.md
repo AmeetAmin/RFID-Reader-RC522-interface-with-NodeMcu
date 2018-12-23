@@ -13,3 +13,6 @@ RC522 – RFID Reader / Writer 13.56MHz with Cards Kit includes a 13.56MHz RF re
 RC522 – RFID Reader features an outstanding modulation and demodulation algorithm to serve effortless RF communication at 13.56 MHz. The S50 RFID Cards will ease up the process helping you to learn and add the 13.56 MHz RF transition to your project.
 
 The module uses SPI to communicate with microcontrollers. The open-hardware community already has a lot of projects exploiting the RC522 – RFID Communication, using Arduino.
+
+
+Project by : kareem ghazi faisel https://www.facebook.com/kareem.peakatcho
