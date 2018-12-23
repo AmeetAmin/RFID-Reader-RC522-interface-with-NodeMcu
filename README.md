@@ -1,6 +1,5 @@
-# -Read-RFID-UIDs-Using-NodeMcu
-RFID Reader RC522 interface with NodeMCU using Arduino IDE
 
+RFID Reader RC522 interface with NodeMCU using Arduino IDE
 
 What is RFID?
 Radio-Frequency Identification (RFID) is the use of radio waves to read and capture information stored on a tag attached to an object. A tag can be read from up to several feet away and does not need to be within direct line-of-sight of the reader to be tracked. This is the advantage over Bar-code.
